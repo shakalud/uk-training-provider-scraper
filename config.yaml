@@ -1,0 +1,9 @@
+http:
+  timeout_seconds: 20
+  delay_seconds: 1.0
+  user_agent: "UKTrainingScraper/1.0 (public portfolio project)"
+email_finder:
+  max_pages: 3
+output_dir: outputs
+logging:
+  level: INFO
